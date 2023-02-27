@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Xenoblade Quiz</string>
+    <string name="ttrue">True</string>
+    <string name="ffalse">False</string>
+    <string name="next_question">Next Question</string>
+    <string name="last_question">Last Question</string>
+    <string name="placeholder_question_text">Muse</string>
+    <string name="first_question">Xenoblade Chronicles 2 is the third entry in the Xenoblade Chronicles series.</string>
+    <string name="second_question">Xenoblade Chronicles 3 is the only Xenoblade game to not have its story split into ten distinct chapters.</string>
+    <string name="third_question">In Xenoblade Chronicles 3, Noah\'s sword is titled \"The Sword of Origin\".</string>
+    <string name="fourth_question">Xenoblade Chronicles 2: Torna ~ The Golden Country was initially going to be played during chapter seven of the main game, but was instead made a DLC side story.</string>
+    <string name="fifth_question">The original Xenoblade Chronicles, from the Nintendo Wii, was ported to the New Nintendo 3DS.</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="cheat">Cheat!</string>
+    <string name="the_future_doesn_t_belong_to_you_n_are_you_sure_you_want_to_see_the_answer">The future doesn\'t belong to you!\n(Are you sure you want to see the answer?)</string>
+    <string name="the_future_is_mine">The future is mine!</string>
+    <string name="you_won">YOU WON!</string>
+    <string name="xenoblade_description">Xenoblade Chronicles is a role-playing game originally published by Nintendo in 2010 and developed by Monolith Soft in the previous years. The original Xenoblade Chronicles jumpstarted the series that is now populated with four full games, with more content coming for the most recent release, Xenoblade Chronicles 3.</string>
+</resources>
