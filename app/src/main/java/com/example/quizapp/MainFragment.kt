@@ -131,5 +131,3 @@ class MainFragment : Fragment() {
         _binding = null
     }
 }
-
-data class Question(val stringID: Int, val correctAnswer: Boolean, var cheated: Boolean) {}
